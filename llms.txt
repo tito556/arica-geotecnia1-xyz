@@ -1,0 +1,51 @@
+# Geotecnia1 — Arica
+
+> Geotechnical engineering services in Arica, Chile.
+
+## Services
+- [Aislacion Sismica](https://arica.geotecnia1.xyz/aislacion-sismica/)
+- [Anclajes](https://arica.geotecnia1.xyz/anclajes/)
+- [Calicatas](https://arica.geotecnia1.xyz/calicatas/)
+- [Cbr Vial](https://arica.geotecnia1.xyz/cbr-vial/)
+- [Cimentaciones](https://arica.geotecnia1.xyz/cimentaciones/)
+- [Columnas Grava](https://arica.geotecnia1.xyz/columnas-grava/)
+- [Densidad Cono Arena](https://arica.geotecnia1.xyz/densidad-cono-arena/)
+- [Ensayo Cpt](https://arica.geotecnia1.xyz/ensayo-cpt/)
+- [Ensayos Proctor](https://arica.geotecnia1.xyz/ensayos-proctor/)
+- [Estabilidad Taludes](https://arica.geotecnia1.xyz/estabilidad-taludes/)
+- [Excavaciones Profundas](https://arica.geotecnia1.xyz/excavaciones-profundas/)
+- [Excavaciones Subterraneo](https://arica.geotecnia1.xyz/excavaciones-subterraneo/)
+- [Exploracion](https://arica.geotecnia1.xyz/exploracion/)
+- [Geotecnia Vial](https://arica.geotecnia1.xyz/geotecnia-vial/)
+- [Granulometria](https://arica.geotecnia1.xyz/granulometria/)
+- [Inyecciones](https://arica.geotecnia1.xyz/inyecciones/)
+- [Laboratorio In Situ](https://arica.geotecnia1.xyz/laboratorio-in-situ/)
+- [Laboratorio Lab](https://arica.geotecnia1.xyz/laboratorio-lab/)
+- [Licuefaccion](https://arica.geotecnia1.xyz/licuefaccion/)
+- [Limites Atterberg](https://arica.geotecnia1.xyz/limites-atterberg/)
+- [Losas Fundacion](https://arica.geotecnia1.xyz/losas-fundacion/)
+- [Masw](https://arica.geotecnia1.xyz/masw/)
+- [Mejoramiento](https://arica.geotecnia1.xyz/mejoramiento/)
+- [Microzonificacion Sismica](https://arica.geotecnia1.xyz/microzonificacion-sismica/)
+- [Monitoreo Excavaciones](https://arica.geotecnia1.xyz/monitoreo-excavaciones/)
+- [Muros Contencion](https://arica.geotecnia1.xyz/muros-contencion/)
+- [Pavimento Flexible](https://arica.geotecnia1.xyz/pavimento-flexible/)
+- [Pavimento Rigido](https://arica.geotecnia1.xyz/pavimento-rigido/)
+- [Permeabilidad In Situ](https://arica.geotecnia1.xyz/permeabilidad-in-situ/)
+- [Pilotes](https://arica.geotecnia1.xyz/pilotes/)
+- [Refraccion Sismica](https://arica.geotecnia1.xyz/refraccion-sismica/)
+- [Resistividad](https://arica.geotecnia1.xyz/resistividad/)
+- [Sismica](https://arica.geotecnia1.xyz/sismica/)
+- [Sondajes Spt](https://arica.geotecnia1.xyz/sondajes-spt/)
+- [Taludes](https://arica.geotecnia1.xyz/taludes/)
+- [Triaxial](https://arica.geotecnia1.xyz/triaxial/)
+- [Tuneles Suelo Blando](https://arica.geotecnia1.xyz/tuneles-suelo-blando/)
+- [Vibrocompactacion](https://arica.geotecnia1.xyz/vibrocompactacion/)
+- [Zapatas](https://arica.geotecnia1.xyz/zapatas/)
+
+## Contact
+- Website: https://arica.geotecnia1.xyz/
+
+## About
+This site provides geotechnical engineering services in Arica, Chile.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
