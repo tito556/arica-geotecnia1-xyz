@@ -11,7 +11,24 @@
 <meta name="robots" content="noindex,follow">
 <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"url":"https://arica.geotecnia1.xyz/privacidad/","name":"Política de Privacidad","isPartOf":{"url":"https://arica.geotecnia1.xyz/","@type":"WebSite","@id":"https://arica.geotecnia1.xyz/#website"},"@type":"WebPage","@id":"https://arica.geotecnia1.xyz/privacidad/","inLanguage":"es"},{"itemListElement":[{"position":1,"@type":"ListItem","item":"https://arica.geotecnia1.xyz/","name":"Home"},{"position":2,"@type":"ListItem","item":"https://arica.geotecnia1.xyz/privacidad/","name":"Política de Privacidad"}],"@type":"BreadcrumbList"}]}</script>
 <style>a{color:#2d5a3d}body{max-width:800px;margin:2rem auto;padding:1rem;font-family:system-ui,sans-serif;line-height:1.7}h1{color:#1e3a5f}</style>
-<link rel="manifest" href="/manifest.json"><meta name="theme-color" content="#0F766E"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"><meta property="og:image" content="https://arica.geotecnia1.xyz/img/aislacion-sismica-1.webp"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630"></head><body>
+<link rel="manifest" href="/manifest.json"><meta name="theme-color" content="#0F766E"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"><meta property="og:image" content="https://arica.geotecnia1.xyz/img/aislacion-sismica-1.webp"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630"><style id="minimal-fix-v5">
+/* Sticky para navbar específicos (NO header.hero) */
+.topbar, .navbar, .header-top, .main-header {
+  position: sticky !important;
+  top: 0 !important;
+  z-index: 1010 !important;
+}
+header.hero, .hero { position: relative !important; }
+/* Dropdowns por encima del hero */
+.dd, .has-dd .dd, .nav-item .dd {
+  z-index: 1100 !important;
+}
+/* Leaflet contained */
+.leaflet-pane { z-index: 400 !important; }
+.leaflet-control { z-index: 800 !important; }
+.leaflet-container { z-index: 1 !important; }
+</style>
+</head><body>
 <p><a href="/">← Inicio</a></p>
 <img src="/img/aislacion-sismica-1.webp" alt="Política de Privacidad" loading="lazy" decoding="async" style="width:100%;max-height:220px;object-fit:cover;display:block;border-radius:6px;margin:1.5rem 0">
 
